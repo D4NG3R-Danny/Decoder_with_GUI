@@ -1,5 +1,5 @@
 # Decoder_with_GUI
-A program which tries to analyse an input string in many ways. For example with a graph showing the frequency of letters in the text.
+A program which tries to analyse an input string in many ways. For example with a graph showing the frequency of letters in the text. This should be only made with Python and its extensive libraries such as tkinter,matplotlib,numpy,etc...
 
 The Projects Goals are:
 -A working Decryption tool for many known weak Encryptions
