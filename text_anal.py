@@ -32,7 +32,7 @@ def letter_count(text: str)-> dict:
     for letters in text:
         counter.setdefault(letters,0)
         counter[letters] += 1
-    
+    print(counter)
     return counter
 
 if __name__ == "__main__":
