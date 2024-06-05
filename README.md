@@ -7,4 +7,4 @@ The Projects Goals are:
 * Additional Features for comfortability like saving your sessions and graphs, feeding the analyse-tool not via the GUI but a .txt-file outside the GUI
 * And many ideas to come...
 
-This project is not a progression towards a commercial software but a hobby to work on.
+This project is just to mess around and visit it once in a while.
